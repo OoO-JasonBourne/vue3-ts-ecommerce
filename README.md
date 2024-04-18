@@ -10,7 +10,9 @@
 
 ### 项目展示
 [链接](http://localhost:8080)
-![alt text](2.png) ![alt text](1.png)
+![登录页](/assets/readme/login.png "登录页")
+![内容页](/assets/readme/home.png "内容页")
+
 
 ### 主要技术栈
 Vue 3 + TypeScript + Element Plus
