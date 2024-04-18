@@ -22,9 +22,9 @@ instance.interceptors.request.use((config) => {
 // 响应拦截
 instance.interceptors.response.use((res) => {
     const status: number = res.data.data.status;
-    if (status !== 200) {
-        return Promise.reject(res.data)
-    }
+    // if (status !== 200) {
+    //     return Promise.reject(res.data)
+    // }
     return res.data
 }, (error) => {
     console.log(error)

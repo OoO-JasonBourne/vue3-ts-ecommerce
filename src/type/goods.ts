@@ -20,7 +20,7 @@ export class InitData {
         introduce: '',
         page: 1,
         count: 0,
-        pageSize: 10
+        pageSize: 8
     }
     // 原始商品数据
     rawGoods:goodsInt[] = []

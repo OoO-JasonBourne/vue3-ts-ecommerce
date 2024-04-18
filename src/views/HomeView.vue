@@ -97,5 +97,9 @@ export default defineComponent({
     height: calc(100vh - 80px);
     background-color: #545c64;
   }
+  .el-main {
+    height: calc(100vh - 80px);
+  }
 }
+
 </style>

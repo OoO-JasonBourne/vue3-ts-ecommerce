@@ -9,7 +9,7 @@
 视频地址：https://www.bilibili.com/video/BV1nr4y1G73d/
 
 ### 项目展示
-[链接](http://localhost:8080)
+点此访问项目：[链接](http://39.101.79.18:8085)
 ![登录页](src/assets/readme/login.png "登录页")
 ![内容页](src/assets/readme/home.png "内容页")
 

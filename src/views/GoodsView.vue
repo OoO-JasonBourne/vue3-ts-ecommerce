@@ -100,4 +100,13 @@ export default defineComponent({
 })
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+
+
+.el-pagination {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 20;
+}
+</style>
