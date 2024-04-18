@@ -2,8 +2,10 @@
 
 ## 项目简介
 ### 项目来源
-本实战项目主要是学习Vue 3与TypeScript（TS）的结合应用，旨在构建一个电商后台管理系统，项目来源于B站。
-项目名称：【vue3+typescript】一行行代码带你敲，Vue3+TS电商后台系统项目实战（2022最新版）
+本实战项目主要是学习Vue 3与TypeScript（TS）的结合应用，旨在构建一个电商后台管理系统，项目来源于B站。  
+
+项目名称：【vue3+typescript】一行行代码带你敲，Vue3+TS电商后台系统项目实战（2022最新版）  
+
 视频地址：https://www.bilibili.com/video/BV1nr4y1G73d/
 
 ### 项目展示
@@ -23,7 +25,8 @@ Vue 3 + TypeScript + Element Plus
 7. 登录与退出（localStorage管理cookie）
 8. 多条件联合查询
 9. Easy Mock 模拟数据服务
-10. 
+
+
 ## 下载
 
 ### 项目下载
